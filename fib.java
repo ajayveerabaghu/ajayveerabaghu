@@ -1,7 +1,7 @@
 class fib{  
 public static void main(String args[])  
 { 
-System.out.println("20ITA28 - B.Kathir Pandian");  
+System.out.println("20ITA22-Ajay Veerabaghu T");  
 int a=0,b=1,c,i,count=12;    
 System.out.print(a+" "+b);  
 for(i=2;i<count;++i)
